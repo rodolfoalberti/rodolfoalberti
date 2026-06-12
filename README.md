@@ -94,19 +94,8 @@ Hi guys! My name is Rodolfo Alberti, I'm 25 years old and I'm from Itajubá, MG,
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodolfoalberti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    <a href="https://stats.hyo.dev/stats/rodolfoalberti"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=rodolfoalberti" width="600" /></a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoalberti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+
+
