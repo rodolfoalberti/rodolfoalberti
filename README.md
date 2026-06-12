@@ -72,7 +72,7 @@ Here are the main technologies and languages that I have been using in my studie
 ### 📊 Estatísticas
 
 <p>
-    <a href="https://stats.hyo.dev/stats/rodolfoalberti"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=rodolfoalberti" width="600" /></a>
+    <a href="https://stats.hyo.dev/stats/rodolfoalberti"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=rodolfoalberti" width="900" /></a>
 
 
 
